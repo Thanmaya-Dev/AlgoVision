@@ -1,0 +1,11 @@
+/* .App {
+  text-align: center;
+} */
+
+.github-fork-ribbon:before {
+  background-color: #edb8ebff !important;
+}
+
+.github-fork-ribbon:after {
+  color: black !important;
+}
